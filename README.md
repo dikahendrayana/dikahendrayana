@@ -2,7 +2,7 @@
 
 # 🌿 Dika Hendrayana
 
-**An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**
+An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**
 
 *Leveraging a strong foundation in operational quality assurance, data integrity auditing, and team leadership to design robust, automated, and maintainable end-to-end data pipelines.*
 
