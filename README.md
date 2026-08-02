@@ -1,11 +1,21 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:003B57,100:4169E1&height=200&section=header&text=Welcome%20!!!&fontSize=42&fontColor=ffffff&animation=twinkling)
-# Hi there, I'm Dika! 👋
+<div align="center">
 
-An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**. 
+# 🌿 Dika Hendrayana
 
-Leveraging a strong foundation in operational quality assurance, data integrity auditing, and team leadership to design robust, automated, and maintainable end-to-end data pipelines.
+**An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**
+
+*Leveraging a strong foundation in operational quality assurance, data integrity auditing, and team leadership to design robust, automated, and maintainable end-to-end data pipelines.*
+
+<br/>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-C5D3E8?style=flat-square&logo=linkedin&logoColor=2D3748)
+![GitHub](https://img.shields.io/badge/GitHub-D0E8C2?style=flat-square&logo=github&logoColor=2D3748)
+![Python](https://img.shields.io/badge/Python-FFF5E4?style=flat-square&logo=python&logoColor=2D3748)
+![Supabase](https://img.shields.io/badge/Supabase-E8D5C4?style=flat-square&logo=supabase&logoColor=2D3748)
 
 ---
+
+</div>
 
 ### 🚀 About Me & Goals
 
