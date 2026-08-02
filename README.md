@@ -1,4 +1,5 @@
-# Hi there, I'm Dika Hendrayana 👋
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:003B57,100:4169E1&height=200&section=header&text=Welcome%20!!!&fontSize=42&fontColor=ffffff&animation=twinkling)
+# Hi there, I'm Dika! 👋
 
 An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**. 
 
