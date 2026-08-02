@@ -22,7 +22,8 @@ An experienced **Team Leader & Quality Analyst in Content Moderation** actively 
 - 🎯 **Career Goal:** Transitioning into full-time **Data Engineering & Data Platform** roles, focusing on building high-reliability cloud data pipelines, data quality frameworks, and scalable data warehouses.
 - 🔍 **Quality Background:** Leveraging years of experience in process auditing, root-cause analysis, and quality assurance to ensure production-grade data accuracy and pipeline observability.
 - 🔭 **Current Focus:** Building fault-tolerant ETL/ELT pipelines featuring schema validation, idempotent upsert logic, and automated WhatsApp monitoring.
-- 📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/dika-hendrayana) | [GitHub](https://github.com/dikahendrayana)
+- 📬 **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dika-hendrayana)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikahendrayana)
 
 ---
 
