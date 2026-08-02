@@ -1,18 +1,21 @@
 # Hi there, I'm Dika Hendrayana 👋
 
-An operations team leader passionate about **Data Engineering**, **Cloud Data Architecture**, and building automated end-to-end data pipelines.
+An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**. 
+
+Leveraging a strong foundation in operational quality assurance, data integrity auditing, and team leadership to design robust, automated, and maintainable end-to-end data pipelines.
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building: **Automated Cloud ETL Pipelines** using Python, Supabase, and GitHub Actions.
-- 🌱 Currently learning: **SQL Modeling, dbt, and Cloud Data Warehousing**.
-- 🛠️ Technical Focus: Data Ingestion, ETL Orchestration, and Automated Monitoring.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dika-hendrayana)
+### 🚀 About Me & Goals
+
+- 🎯 **Career Goal:** Transitioning into full-time **Data Engineering & Data Platform** roles, focusing on building high-reliability cloud data pipelines, data quality frameworks, and scalable data warehouses.
+- 🔍 **Quality Background:** Leveraging years of experience in process auditing, root-cause analysis, and quality assurance to ensure production-grade data accuracy and pipeline observability.
+- 🔭 **Current Focus:** Building fault-tolerant ETL/ELT pipelines featuring schema validation, idempotent upsert logic, and automated WhatsApp monitoring.
+- 📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/dika-hendrayana) | [GitHub](https://github.com/dikahendrayana)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Current Tech Stack & Tools
 
 **Languages & Data Processing**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,18 +26,32 @@ An operations team leader passionate about **Data Engineering**, **Cloud Data Ar
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Orchestration & DevOps**
+**Orchestration & Version Control**
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 🎯 Future Tech Stack & Learning Roadmap
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dikahendrayana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikahendrayana&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+Currently upskilling and expanding technical horizons in modern data stack technologies:
+
+- 🏗️ **Data Transformation & Modeling:** `dbt (data build tool)`
+- ⚙️ **Advanced Orchestration:** `Apache Airflow` / `Dagster`
+- ⚡ **Big Data & Processing:** `PySpark`
+- ☁️ **Enterprise Warehousing:** `Snowflake` / `Google BigQuery`
+- 📊 **BI & Analytics:** `Metabase` / `Looker Studio`
+
+---
+
+### 🤝 Open for Collaboration
+
+I am always excited to connect, learn, and collaborate on:
+- 💡 **Open Source Data Engineering Projects** (ETL/ELT pipelines, API integrations)
+- 🧪 **Data Quality & Governance Frameworks** (Schema validation, anomaly detection)
+- 🤝 **Knowledge Sharing & Mentorship** in Data Engineering, SQL Modeling, and Career Transitioning
+
+*Feel free to reach out via [LinkedIn](https://linkedin.com/in/dika-hendrayana) or open an Issue/PR on any of my repositories!*
 
 ---
 
@@ -42,10 +59,18 @@ An operations team leader passionate about **Data Engineering**, **Cloud Data Ar
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛒 [**E-Commerce ETL Pipeline**](https://github.com/dikahendrayana/ecommerce-cloud-etl-pipeline) | Automated daily ETL pipeline loading data into Supabase with WhatsApp alerts. | Python, Pandas, Supabase, GitHub Actions |
+| 🛒 [**Automated E-Commerce Cloud ETL**](https://github.com/dikahendrayana/ecommerce-cloud-etl-pipeline) | Production-ready daily ETL pipeline that ingests e-commerce transaction data, executes Pandas transformations, performs idempotent upserts into Supabase (PostgreSQL), and dispatches automated WhatsApp execution logs. | Python, Pandas, Supabase, GitHub Actions, Fonnte API |
 
 ---
 
-<p center>
-  <i>"Transforming raw data into actionable insights through robust automation."</i>
+### 📊 GitHub Analytics
+
+![Dika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikahendrayana&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=dikahendrayana&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+  <i>"Combining operational quality standards with robust cloud data engineering."</i>
 </p>
