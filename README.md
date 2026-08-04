@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Dika Hendrayana
+# 🌿 Dika Hendrayana 🌿
 
 An experienced **Team Leader & Quality Analyst in Content Moderation** actively transitioning into **Data Engineering & Cloud Data Architecture**
 
